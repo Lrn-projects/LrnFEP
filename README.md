@@ -1,2 +1,2 @@
 # LrnFEP
-A FEP written in Rust.
+A FEP based on UDP written in Rust.
