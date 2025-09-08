@@ -1,2 +1,2 @@
 # LrnFEP
-A FEP based on UDP written in Rust.
+A Fully encrypter protocol based on UDP written in Rust.
